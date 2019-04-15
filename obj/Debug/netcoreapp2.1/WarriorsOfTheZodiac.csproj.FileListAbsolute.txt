@@ -1,0 +1,11 @@
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/obj/Debug/netcoreapp2.1/WarriorsOfTheZodiac.csprojAssemblyReference.cache
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/obj/Debug/netcoreapp2.1/WarriorsOfTheZodiac.csproj.CoreCompileInputs.cache
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/obj/Debug/netcoreapp2.1/WarriorsOfTheZodiac.AssemblyInfoInputs.cache
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/obj/Debug/netcoreapp2.1/WarriorsOfTheZodiac.AssemblyInfo.cs
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/bin/Debug/netcoreapp2.1/WarriorsOfTheZodiac.deps.json
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/bin/Debug/netcoreapp2.1/WarriorsOfTheZodiac.runtimeconfig.json
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/bin/Debug/netcoreapp2.1/WarriorsOfTheZodiac.runtimeconfig.dev.json
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/bin/Debug/netcoreapp2.1/WarriorsOfTheZodiac.dll
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/bin/Debug/netcoreapp2.1/WarriorsOfTheZodiac.pdb
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/obj/Debug/netcoreapp2.1/WarriorsOfTheZodiac.dll
+/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/obj/Debug/netcoreapp2.1/WarriorsOfTheZodiac.pdb
