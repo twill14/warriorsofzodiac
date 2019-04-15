@@ -12,6 +12,7 @@ namespace WarriorsOfTheZodiac
 
             var newGame = new GameManager();
             var world = new World();
+            
 
             newGame.GameBegin();
             newGame.displayMainMenu();
