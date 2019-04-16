@@ -720,28 +720,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/twill/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\twill\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/WarriorsOfTheZodiac.csproj",
+      "projectUniqueName": "C:\\Users\\twill\\Desktop\\WarriorsofZodiac\\warriorsofzodiac\\WarriorsOfTheZodiac.csproj",
       "projectName": "WarriorsOfTheZodiac",
-      "projectPath": "/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/WarriorsOfTheZodiac.csproj",
-      "packagesPath": "/Users/twill/.nuget/packages/",
-      "outputPath": "/Users/twill/Projects/WarriorsOfTheZodiac/WarriorsOfTheZodiac/obj/",
+      "projectPath": "C:\\Users\\twill\\Desktop\\WarriorsofZodiac\\warriorsofzodiac\\WarriorsOfTheZodiac.csproj",
+      "packagesPath": "C:\\Users\\twill\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\twill\\Desktop\\WarriorsofZodiac\\warriorsofzodiac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/twill/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\twill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
